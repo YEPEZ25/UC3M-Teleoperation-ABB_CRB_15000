@@ -1,0 +1,60 @@
+# Ignorar archivos y carpetas específicos dentro de ABB_Unity_App_TFM_V_1.2
+
+# Ignorar carpetas y archivos generados por Unity dentro de ABB_Unity_App_TFM_V_1.2
+/ABB_Unity_App_EGM/[Ll]ibrary/
+/ABB_Unity_App_EGM/[Tt]emp/
+/ABB_Unity_App_EGM/[Oo]bj/
+/ABB_Unity_App_EGM/[Bb]uild/
+/ABB_Unity_App_EGM/[Bb]uilds/
+/ABB_Unity_App_EGM/[Ll]ogs/
+/ABB_Unity_App_EGM/[Uu]ser[Ss]ettings/
+
+# Ignorar archivos de memoria, grabaciones y otros archivos grandes
+/ABB_Unity_App_EGM/[Mm]emoryCaptures/
+/ABB_Unity_App_EGM/[Rr]ecordings/
+
+# Ignorar archivos generados por Visual Studio y Gradle
+/ABB_Unity_App_EGM/.vs/
+/ABB_Unity_App_EGM/.gradle/
+/ABB_Unity_App_EGM/ExportedObj/
+/ABB_Unity_App_EGM/.consulo/
+
+# Ignorar archivos de solución y proyecto
+/ABB_Unity_App_EGM/*.csproj
+/ABB_Unity_App_EGM/*.unityproj
+/ABB_Unity_App_EGM/*.sln
+/ABB_Unity_App_EGM/*.suo
+/ABB_Unity_App_EGM/*.tmp
+/ABB_Unity_App_EGM/*.user
+/ABB_Unity_App_EGM/*.userprefs
+/ABB_Unity_App_EGM/*.pidb
+/ABB_Unity_App_EGM/*.booproj
+/ABB_Unity_App_EGM/*.svd
+/ABB_Unity_App_EGM/*.pdb
+/ABB_Unity_App_EGM/*.mdb
+/ABB_Unity_App_EGM/*.opendb
+/ABB_Unity_App_EGM/*.VC.db
+
+# Ignorar archivos .meta de Unity3D
+/ABB_Unity_App_EGM/*.pidb.meta
+/ABB_Unity_App_EGM/*.pdb.meta
+/ABB_Unity_App_EGM/*.mdb.meta
+
+# Ignorar archivos generados en informes de crash
+/ABB_Unity_App_EGM/sysinfo.txt
+
+# Ignorar archivos de builds
+/ABB_Unity_App_EGM/*.apk
+/ABB_Unity_App_EGM/*.aab
+/ABB_Unity_App_EGM/*.unitypackage
+/ABB_Unity_App_EGM/*.app
+
+# Ignorar archivos generados por Crashlytics
+/ABB_Unity_App_EGM/crashlytics-build.properties
+
+# Ignorar archivos de Addressables en el directorio de Assets
+/ABB_Unity_App_EGM/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
+# Ignorar archivos auto-generados en Assets/StreamingAssets
+/ABB_Unity_App_EGM/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/ABB_Unity_App_EGM/[Aa]ssets/[Ss]treamingAssets/aa/*
